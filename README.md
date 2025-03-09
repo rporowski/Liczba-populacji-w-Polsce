@@ -36,4 +36,5 @@ Uruchom kolejne komórki.
 Wyniki prognozy zostaną wyświetlone na wygenerowanym wykresie, a wnioski zostaną przedstawione w konsoli.
 Pliki w repozytorium
 README.md – ten plik z opisem projektu.
+liczba_ludnosci_w_polsce.py – główny skrypt Pythona zawierający kod modelowania i prognozowania.
 Dodatkowe pliki: notatnik Google Colab (.ipynb).
